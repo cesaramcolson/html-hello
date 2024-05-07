@@ -1,0 +1,38 @@
+.header {
+    text-align: center;
+}
+body {
+    margin: 0;
+    font-family: Helvetica;
+}
+.box {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 3px;
+}
+section {
+    background-color: rgb(230, 230, 230);
+    padding-top: 15px;
+}
+img {
+    width: 100%;
+}
+div.top {
+    padding: 12px;
+}
+div.top h2 {
+    margin: 0;
+    font-size: 20px;
+}
+div.description {
+    padding: 12px;
+}
+.box .top .date {
+    float: right;
+    margin: 0;
+    color:rgb(190, 190, 190)
+}
